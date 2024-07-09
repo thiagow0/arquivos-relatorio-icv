@@ -1,1 +1,1 @@
-Todos os gráficos e diagramas presentes no relatório se encontram neste repositório. Um compilado dos gráficos, feitos usando o sagemath, pode ser visualizado em LINK COCALC
+Todos os gráficos e diagramas presentes no relatório se encontram neste repositório. Um compilado dos gráficos, feitos usando o sagemath, pode ser visualizado [nesse link](https://cocalc.com/share/public_paths/53b9a07d605e09e114acb2d3d010566fb1567882).
